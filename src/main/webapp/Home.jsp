@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +14,7 @@
             padding: 0;
         }
         header {
-            background-color: #ccffd0;
+            background-color: #E8F5E9;
             color: black;
             padding: 30px 0;
             text-align: center;
